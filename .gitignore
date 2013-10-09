@@ -1,0 +1,22 @@
+.repl_history
+build
+tags
+gems.tags
+app/pixate_code.rb
+resources/*.nib
+resources/*.momd
+resources/*.storyboardc
+.DS_Store
+nbproject
+.redcar
+#*#
+*~
+*.sw[po]
+.eprj
+.sass-cache
+.idea
+
+# ctags
+tags
+
+*build*
